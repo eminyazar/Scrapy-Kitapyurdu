@@ -1,0 +1,500 @@
+Name: Osmanlı'da Bir Amerikan Kovboyu 3.Kitap
+Author:  Eser Baykuş
+Publisher: ONUR KİTAP
+Price:  56,01
+
+Name: Hacı Ali Amerika'da Bir Osmanlı Kovboyu 1. Kitap
+Author:  Eser Baykuş
+Publisher: ONUR KİTAP
+Price:  130,01
+
+Name: Hi Jolly & Amerika'da Bir Osmanlı Kovboyu / 2. Kitap
+Author:  Eser Baykuş
+Publisher: ONUR KİTAP
+Price:  130,01
+
+Name: Yağmurlar İdam Kokar Mı Anne?
+Author:  Kurtuluş Baştimar
+Publisher: ONUR KİTAP
+Price:  58,01
+
+Name: Sevda Mührünü Vurdum Yüreğime
+Author:  Nesim Rüzgar Ulusoy
+Publisher: KUTLU YAYINEVİ
+Price:  36,80
+
+Name: İklim Değişikliğine Alternatif Bir Kamu Politikası Önerisi & Çevre Vergileri
+Author:  Gümrah Can Başdağ
+Publisher: OTORİTE YAYINLARI
+Price:  83,81
+
+Name: İkizim Günlük
+Author:  Fatma Tutak
+Publisher: KENT KARDEŞ
+Price:  39,20
+
+Name: Hayat Romana Benzemez
+Author:  Abdurrahman Fırat
+Publisher: PATARA KİTAP
+Price:  51,01
+
+Name: Taylar Güzel Kaval Çalar
+Author:  Şeyma Subaşı
+Publisher: İZ YAYINCILIK
+Price:  40,00
+
+Name: Eve Dön - On Beş Dakikada Bir (2 Kitap)
+Author:  Lisa Scottoline
+Publisher: PEGASUS YAYINLARI
+Price:  100,00
+
+Name: Kiril'den Kadife Devrime Bohemya, Çekoslovakya, Çekya
+Author:  Mustafa Kadir Atasoy
+Publisher: BİYOGRAFİ.NET
+Price:  24,80
+
+Name: Efsunlu Zaman
+Author:  Aylin Bendis
+Publisher: KENT KİTAP
+Price:  72,01
+
+Name: Dağlarla Denizler Arasında
+Author:  Zhao  Defa
+Publisher: LOTUS YAYINEVİ
+Price:  128,21
+
+Name: İstikamet Yazıları II
+Author:  Ebubekir Sifil
+Publisher: RIHLE KİTAP
+Price:  115,81
+
+Name: Ölüm ve Yeniden Doğuş
+Author:  Katherine Tingley
+Publisher: URZENİ
+Price:  72,01
+
+Name: John Carter X / Gathol Prensesi Llana
+Author:  Edgar Rice Burroughs
+Publisher: FİHRİST KİTAP
+Price:  89,81
+
+Name: Medya ve Sanat
+Author: Prof. Dr. Mukadder Çakır
+Publisher: PARŞÖMEN
+Price:  72,01
+
+Name: Deprem ve Toplumsal Hayat
+Author:  Dolunay Şenol
+Publisher: NET KİTAPLIK YAYINCILIK
+Price:  148,01
+
+Name: Boğaz'daki Aşiret
+Author:  Mahmut Çetin
+Publisher: BİYOGRAFİ.NET
+Price:  52,01
+
+Name: ABD'nin Yeni Jeopolitik Kıskacında Türkiye
+Author:  Fehmi Yücesoy
+Publisher: KUTLU YAYINEVİ
+Price:  124,81
+
+Name: Toplumsal İletişim Dili Olarak Kimlikler
+Author:  Serhat Ulağlı
+Publisher: MOTTO
+Price:  62,01
+
+Name: Yaralı Şövalye
+Author:  L. J. Shen
+Publisher: OLİMPOS YAYINLARI
+Price:  96,60
+
+Name: Türk Edebiyatı'ndan Türk Sineması'na Vurun Kahpeye & 3 Rejisör 3 Film
+Author:  M. Sami Okumuş
+Publisher: ÜLKE KİTAPLARI
+Price:  100,01
+
+Name: Kriz Üçgeninde Türkiye Cilt 3
+Author:  Mehmet Hasgüler
+Publisher: URZENİ
+Price:  72,01
+
+Name: Hannah Gardiner’i Kim Öldürdü?
+Author:  Bülent Uludağ
+Publisher: OLİMPOS YAYINLARI
+Price:  100,19
+
+Name: Yanlış Yer Yanlış Zaman
+Author:  Cara Hunter
+Publisher: OLİMPOS YAYINLARI
+Price:  98,65
+
+Name: Bir Dram Kırk Kelam Doğu Türkistan
+Author:  Gillian Mcallister
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Genetik İhanet & Tepedelenliler
+Author:  Kolektif 
+Publisher: BİYOGRAFİ.NET
+Price:  60,01
+
+Name: Ve Şarkılar Mazide Kalır
+Author:  Mahmut Çetin
+Publisher: FİHRİST KİTAP
+Price:  125,81
+
+Name: Affetmek Üzerine
+Author:  M. Dilek Kızmaz
+Publisher: OLİMPOS YAYINLARI
+Price:  80,85
+
+Name: Yükseköğretimde Uluslararasılaşma ve Kalite
+Author:  Edward M. Hallowell
+Publisher: NET KİTAPLIK YAYINCILIK
+Price:  131,61
+
+Name: Online İçerik Yazarlığı & Uzmanlar ve Yeni Başlayanlar İçin Yeni Nesil İş Modeli
+Author:  İbrahim Hakan Göver
+Publisher: KEDİDEDİ YAYINCILIK
+Price:  42,40
+
+Name: Nehrin Sonsuz Serüveni
+Author: Dr. Sertaç Dalgalıdere
+Publisher: FİHRİST KİTAP
+Price:  71,81
+
+Name: Kader Gayrete Aşıktır
+Author:  Kolektif 
+Publisher: OLİMPOS YAYINLARI
+Price:  58,80
+
+Name: Mars Komutanı / John Carter III
+Author:  Ethem Emin Nemutlu
+Publisher: FİHRİST KİTAP
+Price:  73,81
+
+Name: Serseri Prens
+Author:  Edgar Rice Burroughs
+Publisher: OLİMPOS YAYINLARI
+Price:  96,60
+
+Name: Sihirli Reçete
+Author:  L. J. Shen
+Publisher: POTİNK KİTAP
+Price:  94,01
+
+Name: Bir Tatlı Su Cumhuriyetçisi ve Onun Geçmişe Yolculuğu
+Author:  Erol Demir
+Publisher: ALTIN KİTAPLAR-KAMPANYA
+Price:  31,48
+
+Name: Cevdet Kudret'in Romanlarında Sosyal Hayat
+Author:  Alper Karaağaç
+Publisher: KUTLU YAYINEVİ
+Price:  84,81
+
+Name: Belki de Gerçekten Mümkündür Dönmek
+Author:  Yusuf Çopur
+Publisher: VACİLANDO KİTAP
+Price:  44,44
+
+Name: Güneş, Ay ve Yıldızlardan Öyküler
+Author:  Richard Erdoes
+Publisher: URZENİ
+Price:  44,00
+
+Name: Aşık Olan Neylesin?
+Author:  Alfonso Ortiz
+Publisher: MECRA KİTAP
+Price:  54,34
+
+Name: Arayış
+Author:  Serdar Tuncer
+Publisher: FİHRİST KİTAP
+Price:  59,81
+
+Name: Mandarin & ve Diğer Öyküler
+Author:  Fethi Korkmaz
+Publisher: FİHRİST KİTAP
+Price:  65,81
+
+Name: Hayal Fabrikası
+Author:  Eça de Queiroz 
+Publisher: KUTLU YAYINEVİ
+Price:  52,81
+
+Name: Alevilikte Cem Uygulamaları
+Author:  Yener Camcı
+Publisher: SARMAL KİTABEVİ
+Price:  120,01
+
+Name: Daisy Mason Nerede?
+Author:  İsmail Özmen
+Publisher: OLİMPOS YAYINLARI
+Price:  95,55
+
+Name: Berry Bees / Bayan Bonbon ve Üç Süper Ajan
+Author:  Cara Hunter
+Publisher: YAKAMOZ YAYINCILIK
+Price:  48,10
+
+Name: 2023 KPSS Vatandaşlığın Adil Penceresi - KPSS Konu Anlatımı
+Author:  Cat Le Blanc
+Publisher: NOBEL SINAV - KAMPANYA
+Price:  37,60
+
+Name: Kırklama Çay
+Author:  Mehmet Yalçın
+Publisher: 40'LAR KULÜBÜ
+Price:  40,00
+
+Name: Ümmetin Kırk Yetimi
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Resul’ün Kırk Gülü
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Mavi Marmara'ya Kırk Selam
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Kırk Kelamda İstanbul
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Sade/ce
+Author:  40'lar Kulübü 
+Publisher: KUTLU YAYINEVİ
+Price:  44,80
+
+Name: Suskunluklarım
+Author:  Remzi Gümüş
+Publisher: KUTLU YAYINEVİ
+Price:  44,80
+
+Name: Kardeşliğe Hançer
+Author:  Remzi Gümüş
+Publisher: MOTTO
+Price:  82,01
+
+Name: Küçük Kızın İsyanı
+Author:  Murat Şaşzade
+Publisher: DOĞU KİTABEVİ
+Price:  66,66
+
+Name: Ama
+Author:  Ayşe Akkale
+Publisher: FİHRİST KİTAP
+Price:  83,81
+
+Name: Tuhaf John
+Author:  Vildan Çetin
+Publisher: FİHRİST KİTAP
+Price:  87,81
+
+Name: Şubat Tutulması
+Author:  Sevda Dursun
+Publisher: VADİ YAYINLARI
+Price:  50,01
+
+Name: Mısır’da Toplum ve Siyaset
+Author:  Gökhan Bozbaş
+Publisher: VADİ YAYINLARI
+Price:  60,01
+
+Name: Gestumblindi
+Author:  Arda Keskinkılıç
+Publisher: FİHRİST KİTAP
+Price:  107,81
+
+Name: Ustalar ve Güzel İnsanlar
+Author:  Mahmut Çetin
+Publisher: BİYOGRAFİ.NET
+Price:  32,00
+
+Name: Brenda Joyce Romantik Kitaplar Koleksiyonu Takım Set (4 Kitap)
+Author:  Brenda Joyce
+Publisher: PEGASUS YAYINLARI
+Price:  200,00
+
+Name: Körfezin Sarıkızları & Edremit Körfezi ve Civarında Alanda Çalışan Kadınlar Üzerine Nitel Bir Çalışma
+Author:  Dolunay Şenol
+Publisher: NET KİTAPLIK YAYINCILIK
+Price:  95,61
+
+Name: Okul Öncesinde Çocuk ve Çevre - Çocuklara Çevre Bilinci 
+Author:  Tuba Çoban
+Publisher: KUTLU YAYINEVİ
+Price:  72,81
+
+Name: Benchmarking
+Author: Dr. Cemil Tartan
+Publisher: KUTLU YAYINEVİ
+Price:  56,81
+
+Name: Gemlik'e Doğru Denizi Göreceksin
+Author:  Kadir Turan
+Publisher: FİHRİST KİTAP
+Price:  65,81
+
+Name: Çilekeş Kardeşler
+Author:  Agâh Ensar Can
+Publisher: FİHRİST KİTAP
+Price:  77,81
+
+Name: Okulun Değişen Yüzü & Amerikancı Eğitimden Türk-İslam Sentezine
+Author: Prof. Dr. Sadık Kartal
+Publisher: PALES YAYINLARI
+Price:  80,01
+
+Name: Dijital ve Sonrası
+Author:  Serra Orkan
+Publisher: URZENİ
+Price:  80,01
+
+Name: Aç Kalbini + Tanrı'yla Bütün İlişkimi Kestim (2 Kitap Kutulu Özel Set)
+Author:  Katarina Mazetti
+Publisher: PEGASUS YAYINLARI
+Price:  99,59
+
+Name: Ahde Kırk Vefa
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Asrın Kuyusuna Kırk Damla Sosyal Medya
+Author:  Kolektif 
+Publisher: 40'LAR KULÜBÜ
+Price:  40,00
+
+Name: Diriliş Yolunda Bir Usta Kırk Çırak
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Çanakkale Okunmamış Kırk Mesajın Var
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: En Sevgiliye Kırk Selam
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: İslamofobiye Karşı Kırk Sıddık
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: İncir Tadında İyilik Öyküleri
+Author:  Kolektif 
+Publisher: TİMAŞ YAYINLARI
+Price:  62,01
+
+Name: Phrasesand Names Their Origins And Meanings
+Author:  Trench H. Johnson
+Publisher: HOLISTENCE PUBLICATIONS
+Price:  79,01
+
+Name: Nur’un Aişe’sine Kırk Kördüğüm
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Nebi’nin Göz Nuruna Kırk Gül Hazreti Hatice 
+Author:  40'lar Kulübü 
+Publisher: 40'LAR KULÜBÜ
+Price:  39,60
+
+Name: Curtus Lupus - Baron
+Author:  Nadir Doğan
+Publisher: KUTLU YAYINEVİ
+Price:  144,81
+
+Name: Bunca Şingayı Kim Yedi?
+Author:  Park Wansuh
+Publisher: FİHRİST KİTAP
+Price:  89,81
+
+Name: Defne Yaprağı
+Author:  Aslıhan Ünal
+Publisher: ALTIN KİTAPLAR-KAMPANYA
+Price:  66,38
+
+Name: Piku Nedir Bu?
+Author:  Didem Yıldız
+Publisher: MOTTO
+Price:  56,01
+
+Name: Larus
+Author:  Kaan Mumcuoğlu
+Publisher: MOTTO
+Price:  48,00
+
+Name: Şairin 12'si
+Author:  Ayhan Şahin
+Publisher: FİHRİST KİTAP
+Price:  63,81
+
+Name: Symzonya & Bir Keşif Yolculuğu
+Author:  Adam  Seaborn
+Publisher: FİHRİST KİTAP
+Price:  61,81
+
+Name: Akan Sudan Şüphe
+Author:  Berat Yılmaz
+Publisher: FİHRİST KİTAP
+Price:  33,80
+
+Name: Kahve Arası Sanat Konuşmaları
+Author:  Ömer  Alkan
+Publisher: FİHRİST KİTAP
+Price:  55,81
+
+Name: Tragedya
+Author:  Selman Bilgehan
+Publisher: FİHRİST KİTAP
+Price:  81,81
+
+Name: Bir Hayat Üç Dönem
+Author:  Ömer  Alkan
+Publisher: İLETİŞİM YAYINLARI KAMPANYA
+Price:  45,00
+
+Name: Özgür Olmak İçin Güzel Bir Gün
+Author:  Gencay Gürsoy
+Publisher: HAYY KİTAP - KAMPANYA
+Price:  40,00
+
+Name: Ne Biliyorsam Hepsini Anaokulunda Öğrendim
+Author:  Özkan Sağın
+Publisher: ALTIN KİTAPLAR-KAMPANYA
+Price:  50,46
+
+Name: Güneşli Günler
+Author:  Robert Fulghum
+Publisher: MOTTO
+Price:  48,00
+
+Name: 8. Cadde
+Author:  Ahmet Yenilmez
+Publisher: BİYOGRAFİ.NET
+Price:  50,01
+
+Name: Kutsal Bahçe
+Author:  Selçuk Özyurt
+Publisher: FİHRİST KİTAP
+Price:  33,80
+
+Name: Şifacının Üç Yolu
+Author:  Kerem Nadir Özcan
+Publisher: ALTIN KİTAPLAR-KAMPANYA
+Price:  80,14
+
